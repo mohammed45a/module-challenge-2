@@ -69,7 +69,7 @@
   }
   
   nav ul li  a:hover { 
-   color: antiquewhite; 
+   color: #B1E1FF; 
   }
   
   .hero-banner {
@@ -245,7 +245,7 @@
    color: black; 
   }
   .contact a:hover { 
-   color: rgb(37, 37, 126); 
+   color:#B1E1FF; 
   }
   
   @media (min-width: 790px) and (max-width: 890px) {
